@@ -2,26 +2,26 @@
   "tasks": [
     {
       "id": "1",
-      "title": "task 1",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "title": "Quantum Flux Capacitor Calibration",
+      "description": "In this cutting-edge project, you will be responsible for calibrating the Quantum Flux Capacitors, which are essential components of our next-gen interstellar travel system. Your tasks will include fine-tuning the quantum resonance levels, optimizing the temporal displacement coefficients, and ensuring seamless synchronization between the multidimensional flux matrices. Prior experience with advanced subatomic particle manipulation and a solid understanding of non-linear temporal mechanics is a must. This is a unique opportunity to push the boundaries of quantum engineering and reshape the future of space exploration.",
       "completed": false
     },
     {
       "id": "2",
-      "title": "task 2",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "title": "Holographic Unicorn Simulation Analysis",
+      "description": "Embark on a journey into the fantastical realm of holographic unicorn simulations! As a Simulation Analysis Specialist, your role will involve meticulously observing and evaluating the behavioral patterns, ethereal auras, and magical interactions of holographic unicorns within our simulated enchanted forest environment. You'll collaborate with our team of imaginary creature psychologists to decipher unicorn emotions and reactions. Proficiency in deciphering unicorn language (equine fluency) is a plus, but not required. Get ready to unlock the secrets of holographic mysticism!",
       "completed": false
     },
     {
       "id": "3",
-      "title": "task 3",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "title": "Lunar Cheese Mining Efficiency Assessment",
+      "description": "Join our lunar expedition team to assess the efficiency of cheese mining operations on the moon! Your mission will involve calculating optimal drilling trajectories through moon's Swiss-like craters, monitoring lunar curd compression rates, and evaluating the celestial cheese aging process under low gravity conditions. Proficiency in space dairy engineering and a passion for cosmic fromage are desirable qualities. Embrace the cosmic cheesy adventure and contribute to lunar gastronomy research like never before!.",
       "completed": false
     },
     {
       "id": "4",
-      "title": "task 4",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "title": "Crypto-Cosmological Cryptography",
+      "description": "Dive into the intriguing world of crypto-cosmological cryptography, where you'll develop unbreakable codes inspired by the patterns of cosmic microwave background radiation. Your tasks will include creating encryption algorithms based on quantum-entangled particles, using pulsar timing arrays for secure key exchange, and harnessing the mysterious properties of dark matter for data protection. Proficiency in multidimensional number theory and experience with celestial enigma decryption will set you apart in this cosmic code-cracking challenge.",
       "completed": false
     }
   ]
